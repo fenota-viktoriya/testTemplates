@@ -1,0 +1,64 @@
+[
+    {
+        "_id": "648035ccc47dfeb56aaf8ad3",
+        "applicationId": "ai-apps",
+        "slug": "home",
+        "Page": {
+            "name": "home",
+            "layouts": [
+                {
+                    "_id": "648035ccc47dfeb56aaf8ad7",
+                    "viewMode": false,
+                    "dsl": {
+                        "widgetName": "MainContainer",
+                        "backgroundColor": "none",
+                        "rightColumn": 966,
+                        "snapColumns": 64,
+                        "detachFromLayout": true,
+                        "widgetId": "0",
+                        "topRow": 0,
+                        "bottomRow": 320,
+                        "containerStyle": "none",
+                        "snapRows": 125,
+                        "parentRowSpace": 1,
+                        "type": "CANVAS_WIDGET",
+                        "canExtend": true,
+                        "version": 57,
+                        "minHeight": 1292,
+                        "parentColumnSpace": 1,
+                        "dynamicBindingPathList": [],
+                        "leftColumn": 0,
+                        "children": [],
+                        "dynamicTriggerPathList": []
+                    },
+                    "widgetNames": [
+                        "MainContainer"
+                    ],
+                    "deleted": false,
+                    "layoutOnLoadActions": [
+                        []
+                    ],
+                    "layoutOnCloseActions": [
+                        []
+                    ],
+                    "policies": []
+                }
+            ]
+        },
+        "createdAt": "2023-06-07T07:46:20.539Z",
+        "updatedAt": "2023-06-07T07:46:20.539Z",
+        "deleted": false,
+        "policies": [
+            {
+                "permission": "read:pages",
+                "groups": [],
+                "users": []
+            },
+            {
+                "permission": "manage:pages",
+                "groups": [],
+                "users": []
+            }
+        ]
+    }
+]

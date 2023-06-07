@@ -1,0 +1,47 @@
+{
+    "_id": "648035ccc47dfeb56aaf8ad2",
+    "name": "ai-apps",
+    "slug": "ai-apps",
+    "organizationId": "Org",
+    "isPublic": false,
+    "isMenu": false,
+    "createdAt": "2023-06-07T07:46:20.539Z",
+    "updatedAt": "2023-06-07T07:46:20.539Z",
+    "deleted": false,
+    "pages": [
+        {
+            "_id": "home",
+            "isDefault": true
+        }
+    ],
+    "policies": [
+        {
+            "permission": "makePublic:applications",
+            "groups": [],
+            "users": []
+        },
+        {
+            "permission": "read:applications",
+            "groups": [],
+            "users": []
+        },
+        {
+            "permission": "publish:applications",
+            "groups": [],
+            "users": []
+        },
+        {
+            "permission": "manage:applications",
+            "groups": [],
+            "users": []
+        }
+    ],
+    "gitApplicationMetadata": {
+        "browserSupportedRemoteUrl": "https://github.com/fenota-viktoriya/testTemplates",
+        "defaultApplicationId": "ai-apps",
+        "defaultBranchName": "main",
+        "isRepoPrivate": true,
+        "remoteUrl": "git@github.com:fenota-viktoriya/testTemplates.git",
+        "repoName": "testTemplates"
+    }
+}
